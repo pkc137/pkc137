@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pkc137
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning Computer vision
+- 🌱 Learning Computer vision
 - 💞️ 
 
 
