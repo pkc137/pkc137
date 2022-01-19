@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pkc137
-- 👀 I’m interested in automation boring stuff
+- 👀 I’m interested in automation of boring stuff
 - 🌱 Learning Computer vision
 - 💞️ 
 
